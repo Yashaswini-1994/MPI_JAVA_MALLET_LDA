@@ -1,0 +1,1 @@
+javac -cp .:/usr/apps/mpiJava/lib/classes:.:pdfbox-2.0.0-RC3.jar:jsoup-1.14.3.jar:guava-18.0.jar:mallet.jar:mallet-deps.jar src/Main.java src/Article.java src/Cluster.java src/Document.java src/geneticLogic.java src/KeywordExtractor.java src/MalletInput.java src/Ranking.java src/SourceFile.java src/TopicModelling.java
